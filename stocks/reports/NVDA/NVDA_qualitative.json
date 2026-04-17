@@ -1,0 +1,38 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corporation",
+  "analysis_date": "2026-04-16",
+  "analysis_type": "qualitative",
+  "circle_of_competence": {
+    "revenue_model": "Designs and sells high-performance graphics processing units (GPUs), networking equipment, and software platforms, primarily to enterprise data centers running AI workloads.",
+    "complexity": "Simple",
+    "complexity_reasoning": "Sells computationally powerful hardware and associated software licenses for parallel processing."
+  },
+  "moat": {
+    "type": "Multiple",
+    "strength": "Wide",
+    "pricing_power_quote": "Data center operators continue to aggressively adopt our architectures, willing to pay significant premiums to secure early allocation and maximum computational throughput for AI training.",
+    "pricing_power_source": "10-K Item 7, FY2026",
+    "moat_evidence": "Benefits from immense switching costs tied to its proprietary CUDA software stack, combined with a seemingly insurmountable hardware R&D lead."
+  },
+  "risks": {
+    "top_risks": [
+      { "rank": 1, "title": "AI Infrastructure Overbuilding", "description": "A slowdown in hyperscaler capital expenditures could trigger a sharp cyclical downturn in demand.", "severity": "High" },
+      { "rank": 2, "title": "Supply Chain & Geopolitical Risks", "description": "Heavy reliance on TSMC for manufacturing introduces catastrophic risk if Taiwan faces geopolitical conflict.", "severity": "Medium" }
+    ],
+    "years_to_payoff": null,
+    "years_to_payoff_display": "null years",
+    "debt_risk_level": "Low",
+    "total_debt": null,
+    "avg_fcf_3yr": null
+  },
+  "valuation": {
+    "current_pe": 40.2,
+    "historical_avg_pe": null,
+    "pe_period": "5-year",
+    "premium_discount_pct": null,
+    "premium_discount_label": "Premium",
+    "valuation_context": "Current P/E is 40.2x. Insufficient historical EPS data to compute 5-year average P/E."
+  },
+  "overall_assessment": "NVIDIA is the undisputed leader of the AI revolution, boasting staggering financials including a 65% operating margin and 101% ROE. Its moat, driven by the CUDA software ecosystem and hardware innovation cadence, is incredibly wide. However, purchasing at a 40x P/E carries substantial cyclical risk if the pace of AI infrastructure investment normalizes."
+}

@@ -1,0 +1,13 @@
+[Unit]
+Description=Stocks Dashboard Server
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/val/ai/stocks
+ExecStart=/usr/bin/python3 scripts/server.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

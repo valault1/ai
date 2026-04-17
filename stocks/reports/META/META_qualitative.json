@@ -1,0 +1,38 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms, Inc.",
+  "analysis_date": "2026-04-16",
+  "analysis_type": "qualitative",
+  "circle_of_competence": {
+    "revenue_model": "Meta generates substantially all of its revenue from selling advertising placements on its family of apps (Facebook, Instagram, Messenger, Threads, and WhatsApp) to marketers, while also generating revenue from consumer hardware, software, and content via its Reality Labs segment.",
+    "complexity": "Simple",
+    "complexity_reasoning": "The core revenue driver is a straightforward digital advertising model powered by massive user scale and engagement."
+  },
+  "moat": {
+    "type": "Network Effect",
+    "strength": "Wide",
+    "pricing_power_quote": "Our average price per ad increased 9% year-over-year.",
+    "pricing_power_source": "10-K Item 7, FY2025",
+    "moat_evidence": "Meta's massive user base of 3.58 billion daily active people creates an insurmountable network effect where users and advertisers are mutually locked into the platform's ecosystem."
+  },
+  "risks": {
+    "top_risks": [
+      { "rank": 1, "title": "Regulatory & Privacy Headwinds", "description": "Global privacy laws and OS changes (like Apple iOS) limit ad targeting and measurement, impacting revenue potential.", "severity": "High" },
+      { "rank": 2, "title": "Intense Competition for Attention", "description": "Platforms like TikTok compete for user time, potentially eroding the network effect among younger demographics.", "severity": "Medium" }
+    ],
+    "years_to_payoff": 2.5,
+    "years_to_payoff_display": "2.5 years",
+    "debt_risk_level": "Low",
+    "total_debt": 58740000000,
+    "avg_fcf_3yr": 23400000000
+  },
+  "valuation": {
+    "current_pe": 28.8,
+    "historical_avg_pe": 24.0,
+    "pe_period": "5-year",
+    "premium_discount_pct": 20.0,
+    "premium_discount_label": "Premium",
+    "valuation_context": "At 28.8x P/E, Meta trades at a 20% premium to its 5-year historical average, suggesting full valuation with a reduced margin of safety."
+  },
+  "overall_assessment": "Meta remains a high-quality business with a dominant network effect and exceptional operating margins. While it faces significant regulatory risks and a higher-than-average valuation, its strong cash flow and fortress balance sheet provide a stable foundation for its aggressive AI pivot."
+}

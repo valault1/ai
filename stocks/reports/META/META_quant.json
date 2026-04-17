@@ -1,0 +1,94 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms, Inc.",
+  "analysis_date": "2026-04-16",
+  "analysis_type": "quantitative",
+  "market_cap": 1712180166656,
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "current_price": 676.87,
+  "verdict": "BORDERLINE",
+  "big4": [
+    {
+      "metric": "ROE",
+      "label": "Return on Equity",
+      "value": 0.30238,
+      "display_value": "30.2%",
+      "threshold": 0.15,
+      "threshold_label": ">= 15%",
+      "direction": "higher_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "DE",
+      "label": "Debt / Equity",
+      "value": 0.39164,
+      "display_value": "0.39x",
+      "threshold": 0.5,
+      "threshold_label": "< 0.50x",
+      "direction": "lower_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "FCF_YIELD",
+      "label": "FCF Yield",
+      "value": 0.013685694255975971,
+      "display_value": "1.4%",
+      "threshold": 0.05,
+      "threshold_label": ">= 5%",
+      "direction": "higher_is_better",
+      "pass_fail": "FAIL"
+    },
+    {
+      "metric": "PE",
+      "label": "P/E Ratio",
+      "value": 28.790728,
+      "display_value": "28.8x",
+      "threshold": 20,
+      "threshold_label": "< 20x",
+      "direction": "lower_is_better",
+      "pass_fail": "FAIL"
+    }
+  ],
+  "supporting": [
+    {
+      "metric": "CURRENT_RATIO",
+      "label": "Current Ratio",
+      "value": 2.599,
+      "display_value": "2.60x",
+      "threshold": 1.5,
+      "threshold_label": "> 1.5x",
+      "direction": "higher_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "OP_MARGIN",
+      "label": "Operating Margin",
+      "value": 0.41314998,
+      "display_value": "41.3%",
+      "threshold": 0.1,
+      "threshold_label": "> 10%",
+      "direction": "higher_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "SHARES_TREND",
+      "label": "Shares Outstanding",
+      "value": null,
+      "display_value": "Decreasing",
+      "threshold": null,
+      "threshold_label": "Flat or decreasing",
+      "direction": null,
+      "pass_fail": "PASS",
+      "shares_history": [
+        2529638328,
+        2534487662,
+        2561000000,
+        2614000000
+      ]
+    }
+  ],
+  "big4_pass_count": 2,
+  "big4_fail_count": 2,
+  "quant_gate": "PROCEED"
+}

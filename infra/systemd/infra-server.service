@@ -1,0 +1,14 @@
+[Unit]
+Description=AI Pipelines Infrastructure Server
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/val/ai
+Environment=PYTHONPATH=/home/val/ai
+ExecStart=/usr/bin/python3 infra/server.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

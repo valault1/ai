@@ -1,0 +1,48 @@
+{
+  "run_id": "20260417-152649-221a5f",
+  "pipeline_id": "stocks/analyze",
+  "pipeline_name": "Stock Analysis",
+  "params": {
+    "ticker": "TSLA"
+  },
+  "status": "done",
+  "started_at": "2026-04-17T15:26:49",
+  "finished_at": "2026-04-17T15:26:50",
+  "steps": [
+    {
+      "id": "quant",
+      "name": "Quantitative Screen",
+      "status": "done",
+      "started_at": "2026-04-17T15:26:49",
+      "finished_at": "2026-04-17T15:26:50"
+    },
+    {
+      "id": "sec_fetch",
+      "name": "Fetch SEC Filings",
+      "status": "skipped",
+      "started_at": null,
+      "finished_at": null
+    },
+    {
+      "id": "valuation",
+      "name": "Valuation Context",
+      "status": "skipped",
+      "started_at": null,
+      "finished_at": null
+    },
+    {
+      "id": "qualitative",
+      "name": "Qualitative Analysis",
+      "status": "skipped",
+      "started_at": null,
+      "finished_at": null
+    },
+    {
+      "id": "verdict",
+      "name": "Final Verdict",
+      "status": "skipped",
+      "started_at": null,
+      "finished_at": null
+    }
+  ]
+}

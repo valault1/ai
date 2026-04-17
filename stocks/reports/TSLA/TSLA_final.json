@@ -1,0 +1,21 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla, Inc.",
+  "analysis_date": "2026-04-17",
+  "analysis_type": "final_verdict",
+  "verdict": "PASS",
+  "verdict_reasoning": "Failed quantitative screen: 3 of 4 Big 4 metrics fail.",
+  "elevator_pitch": null,
+  "target_entry_note": null,
+  "scores": null,
+  "summary": {
+    "quant_verdict": "FAIL",
+    "big4_pass_count": 1,
+    "big4_fail_count": 3,
+    "moat_type": null,
+    "moat_strength": null,
+    "debt_risk": null,
+    "valuation_stance": null,
+    "top_risk": null
+  }
+}

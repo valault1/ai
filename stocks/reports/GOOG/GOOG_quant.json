@@ -1,0 +1,94 @@
+{
+  "ticker": "GOOG",
+  "company_name": "Alphabet Inc.",
+  "analysis_date": "2026-04-16",
+  "analysis_type": "quantitative",
+  "market_cap": 4046083850240,
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "current_price": 334.47,
+  "verdict": "BORDERLINE",
+  "big4": [
+    {
+      "metric": "ROE",
+      "label": "Return on Equity",
+      "value": 0.35705003,
+      "display_value": "35.7%",
+      "threshold": 0.15,
+      "threshold_label": ">= 15%",
+      "direction": "higher_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "DE",
+      "label": "Debt / Equity",
+      "value": 0.16133,
+      "display_value": "0.16x",
+      "threshold": 0.5,
+      "threshold_label": "< 0.50x",
+      "direction": "lower_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "FCF_YIELD",
+      "label": "FCF Yield",
+      "value": 0.009413639887305036,
+      "display_value": "0.9%",
+      "threshold": 0.05,
+      "threshold_label": ">= 5%",
+      "direction": "higher_is_better",
+      "pass_fail": "FAIL"
+    },
+    {
+      "metric": "PE",
+      "label": "P/E Ratio",
+      "value": 30.969444,
+      "display_value": "31.0x",
+      "threshold": 20,
+      "threshold_label": "< 20x",
+      "direction": "lower_is_better",
+      "pass_fail": "FAIL"
+    }
+  ],
+  "supporting": [
+    {
+      "metric": "CURRENT_RATIO",
+      "label": "Current Ratio",
+      "value": 2.005,
+      "display_value": "2.00x",
+      "threshold": 1.5,
+      "threshold_label": "> 1.5x",
+      "direction": "higher_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "OP_MARGIN",
+      "label": "Operating Margin",
+      "value": 0.31568,
+      "display_value": "31.6%",
+      "threshold": 0.1,
+      "threshold_label": "> 10%",
+      "direction": "higher_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "SHARES_TREND",
+      "label": "Shares Outstanding",
+      "value": null,
+      "display_value": "Decreasing",
+      "threshold": null,
+      "threshold_label": "Flat or decreasing",
+      "direction": null,
+      "pass_fail": "PASS",
+      "shares_history": [
+        12088000000,
+        12211000000,
+        12460000000,
+        12849000000
+      ]
+    }
+  ],
+  "big4_pass_count": 2,
+  "big4_fail_count": 2,
+  "quant_gate": "PROCEED"
+}

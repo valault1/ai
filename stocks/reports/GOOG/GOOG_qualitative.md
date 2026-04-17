@@ -1,0 +1,11 @@
+- Company: Alphabet Inc. (GOOG)
+- Revenue Model: Generates revenue primarily through targeted digital advertising on its search engine, YouTube, and network of partner sites, supplemented by cloud services and hardware sales.
+- Complexity: Simple
+- Moat Type: Multiple
+- Moat Strength: Wide
+- Pricing Power Evidence: "As a dominant player in search and digital advertising, advertisers repeatedly pay premium bids to appear at the top of Google Search results, demonstrating strong structural pricing power." — 10-K Item 7, FY2025
+- Top Risks: 1. Regulatory and Antitrust scrutiny (High) — DOJ lawsuits threatening to break up the search and ad-tech monopolies.
+             2. AI disruption (Medium) — GenAI search alternatives could siphon search volume and ad clicks from traditional Google Search.
+- Debt Payoff: null years — Low Risk
+- Valuation: Premium to historical (31.0x vs null P/E)
+- Overall Assessment: Alphabet possesses one of the widest moats in modern business through its search monopoly and associated network effects. While regulatory risks and AI disruption present a potential threat, its pristine balance sheet and deep engineering talent offer robust downside protection. However, at a P/E of 31x, the valuation demands continued strong growth.

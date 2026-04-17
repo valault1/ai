@@ -1,0 +1,138 @@
+Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+You should read the following discussion of our financial condition and results of operations in conjunction with our consolidated financial statements and the related notes included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K. In addition to our historical consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report on Form 10-K, particularly in Part I, Item 1A, "Risk Factors." For a discussion of limitations in the measurement of our Family metrics, see the section entitled "Limitations of Key Metrics and Other Data" in this Annual Report on Form 10-K.
+To supplement our consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (GAAP), we present revenue on a constant currency basis and free cash flow, which are non-GAAP financial measures. Revenue on a constant currency basis is presented in the section entitled "
+—
+Revenue
+—
+Foreign Exchange Impact on Revenue." To calculate revenue on a constant currency basis, we translated revenue for the full year 2025 using 2024 monthly exchange rates for our settlement or billing currencies other than the U.S. dollar. For a full description of our free cash flow non-GAAP measure, see the section entitled "
+—
+Liquidity and Capital Resources—Free Cash Flow."
+These non-GAAP financial measures are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. These measures may be different from non‑GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. Moreover, presentation of revenue on a constant currency basis is provided for year-over-year comparison purposes, and investors should be cautioned that the effect of changing foreign currency exchange rates has an actual effect on our operating results. We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business.
+Executive Overview of Full Year 2025 Results
+Our mission is to build the future of human connection and the technology that makes it possible.
+Our financial results and key Family metrics for 2025 are set forth below. Total revenue for 2025 was $200.97 billion, an increase of 22% compared to 2024, due to an increase in advertising revenue. Ad impressions delivered across our Family of Apps in 2025 increased 12% year-over-year, and our average price per ad increased 9% year-over-year.
+Income from operations for 2025 was $83.28 billion, an increase of $13.90 billion, or 20%, compared to 2024, driven by an increase in advertising revenue, partially offset by an increase in costs and expenses. The increase in costs and expenses was mainly due to increases in employee compensation and infrastructure costs.
+60
+Table of Contents
+Consolidated and Segment Results
+We report our financial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook, Instagram, Messenger, WhatsApp, and other services. RL includes our virtual and augmented reality related consumer hardware, software, and content.
+Family of Apps
+Reality Labs
+Total
+Year Ended
+December 31,
+Year Ended
+December 31,
+Year Ended
+December 31,
+2025
+2024
+% change
+2025
+2024
+% change
+2025
+2024
+% change
+(in millions, except percentages)
+Revenue
+$
+198,759
+$
+162,355
+22%
+$
+2,207
+$
+2,146
+3%
+$
+200,966
+$
+164,501
+22%
+Costs and expenses
+96,290
+75,246
+28%
+21,400
+19,875
+8%
+117,690
+95,121
+24%
+Income (loss) from operations
+$
+102,469
+$
+87,109
+18%
+$
+(19,193)
+$
+(17,729)
+(8)%
+$
+83,276
+$
+69,380
+20%
+Operating margin
+52
+%
+54
+%
+(870)
+%
+(826)
+%
+41
+%
+42
+%
+•
+Net income was $60.46 billion, with diluted earnings per share (EPS) of $23.49 for the year ended December 31, 2025.
+•
+Capital expenditures, including principal payments on finance leases, were $72.22 billion for the year ended December 31, 2025.
+•
+Share repurchases of our Class A common stock were $26.26 billion and total dividend and dividend equivalent payments were $5.32 billion for the year ended December 31, 2025.
+•
+Cash, cash equivalents, and marketable securities were $81.59 billion as of December 31, 2025.
+•
+Long-term debt was $58.74 billion as of December 31, 2025.
+•
+Effective tax rate was 30% for the year ended December 31, 2025. This includes the effects of the implementation of the One Big Beautiful Bill Act during the third quarter of 2025. Absent the valuation allowance charge as of the enactment date, our 2025 effective tax rate would have decreased by 17 percentage points to 13%.
+•
+Headcount was 78,865 as of December 31, 2025, an increase of 6% year-over-year.
+Family of Apps Metrics
+•
+Family daily active people (DAP) was 3.58 billion on average for December 2025, an increase of 7% year-over-year.
+•
+Ad impressions delivered across our Family of Apps increased by 12% year-over-year in 2025.
+•
+Average price per ad increased by 9% year-over-year in 2025.
+Developments in Advertising
+Substantially all of our revenue is currently generated from advertising on Facebook and Instagram. We rely on targeting and measurement tools that incorporate data signals from user activity on websites and services that we do not control, as well as signals generated within our products, in order to deliver relevant and effective ads to our users. Our advertising revenue has been, and we expect will continue to be, adversely affected by reduced marketer spending as a result of limitations on our ad targeting and measurement tools arising from changes to the regulatory environment and third-party mobile operating systems and browsers.
+In particular, legislative and regulatory developments such as the General Data Protection Regulation, including its evolving interpretation through decisions of the Court of Justice of the European Union, ePrivacy Directive, European Digital Services Act, Digital Markets Act, and U.S. state privacy laws have impacted our ability to use data signals in our ad products, and an increasing number of laws have been introduced limiting or prohibiting the provision of our services to younger users. We expect these and other developments will have further impact in the future. As a result, we have implemented, and we will continue to implement, whether voluntarily or otherwise, changes to our products and user data practices, which reduce our ability to effectively target and measure ads and may negatively impact our advertising revenue and user engagement. For example, in response to regulatory developments in Europe, we announced our plans to change the legal basis for behavioral advertising on Facebook and Instagram in the European Union, European Economic Area, and
+61
+Table of Contents
+Switzerland from "legitimate interests" to "consent," and began offering users in the region a "subscription for no ads" alternative. We subsequently began offering users in the region who elect to continue using our services free-of-charge, supported by ads, an option to see less personalized ads, which are less relevant and effective than our premium ad offerings. We are engaging with regulators on our consent model. In addition, mobile operating system and browser providers, such as Apple and Google, have implemented product changes and/or announced plans to limit the ability of websites and application developers to collect and use these signals to target and measure advertising. For example, in 2021, Apple made certain changes to its products and data use policies in connection with changes to its iOS operating system that reduce our and other iOS developers' ability to target and measure advertising, which has negatively impacted, and we expect will continue to negatively impact, the size of the budgets marketers are willing to commit to us and other advertising platforms.
+To mitigate these developments, we are continually working to evolve our advertising systems to improve the performance of our ad products. We are developing privacy enhancing technologies to deliver relevant ads and measurement capabilities while reducing the amount of personal information we process, including by relying more on anonymized or aggregated third-party data. In addition, we are developing tools that enable marketers to share their data into our systems, as well as ad products that generate more valuable signals within our apps. More broadly, we also continue to innovate our advertising tools to help marketers prepare campaigns and connect with consumers, including developing growing formats such as Reels ads and our business messaging ad products. Across all of these efforts, we are making significant investments in artificial intelligence (AI), including generative AI, to improve our delivery, targeting, and measurement capabilities. Further, we are focused on driving onsite conversions in our business messaging ad products by developing new features and scaling existing features.
+We are also engaging with others across our industry to explore the possibility of new open standards for the private and secure processing of data for advertising purposes. We believe our ongoing improvements to ad targeting and measurement are continuing to drive improved results for advertisers. However, we expect that some of these efforts will be long-term initiatives, and that the legislative, regulatory and platform developments described above will continue to adversely impact our advertising revenue for the foreseeable future.
+In addition, we maintain advertising policies to protect the security and integrity of our platform and comply with global content, security, and integrity obligations. Our ongoing efforts to enhance enforcement against ads and marketers which violate our advertising policies adversely affect our revenue, and we expect that the continued enhancement of such efforts will have an impact on our revenue in the future, which may be material.
+Other Business and Macroeconomic Conditions
+Other global and regional business, macroeconomic, and geopolitical conditions also have had, and we believe will continue to have, an impact on our user growth and engagement and advertising revenue. In particular, we believe advertising budgets have been pressured from time to time by factors such as inflation, economic policies and international trade, high interest rates, and related market uncertainty, which has led to reduced marketer spending. We are currently subject to increased business, macroeconomic, and geopolitical uncertainty, including as a result of volatility around international trade, which could impact our financial results in future periods.
+In addition, competitive products and services have reduced some users' engagement with our products and services. We are investing in Reels and in AI initiatives across our products, including our AI-powered discovery engine to recommend relevant content, which we have already seen results in improved user engagement and monetization of our products. However, we continue to face competition from other products and services within certain demographics, in particular younger users. In addition, while Reels is growing in usage, it monetizes at a lower rate than our Feed and Stories products and we expect it will continue to monetize at a lower rate for the foreseeable future. We also have seen fluctuations and declines in the size of our active user base in one or more regions from time to time due to geopolitical conditions, which have adversely affected our user growth and engagement. These trends have adversely affected our advertising revenue and we expect will continue to adversely affect our advertising revenue in the foreseeable future.
+Although we regularly evaluate a variety of sources to understand trends in our advertising revenue, we do not have perfect visibility into the factors driving advertiser spending decisions and our assessments involve complex judgments about what is driving advertising decisions across a large and diversified advertiser base across the globe. Trends impacting advertising spend are also dynamic and interrelated. As a result, it is difficult to identify with precision which advertiser spending decisions are attributable to which trends, and we are unable to quantify the exact impact that each trend had on our advertising revenue during the periods presented.
+62
+Table of Contents
+Investment Philosophy
+We remain focused on operating efficiently while investing in significant opportunities. In 2025, 82% of our total costs and expenses were recognized in FoA and 18% were recognized in RL. Our FoA investments include expenses relating to headcount, data centers, and technical infrastructure as part of our efforts to develop our apps and our advertising services. These efforts include significant investments in AI initiatives, including generative AI and superintelligence, to, among other things, recommend relevant content across our products, enhance our advertising tools, develop new products, and develop new features for existing products. In particular, we expect our AI initiatives will require significantly increased investment in infrastructure.
+We are also making significant investments in our RL efforts, including developing virtual and augmented reality devices, software for social platforms, neural interfaces, and other foundational technologies. Our RL investments include expenses relating to technology development across these efforts. Many of our RL investments are directed toward long-term, cutting-edge research and development for products that may only be fully realized in the next decade. In 2025, our RL segment reduced our overall operating profit by approximately $19.19 billion, and we expect our 2026 RL operating losses to remain similar to 2025. We expect this will be a complex, evolving, and long-term initiative, and our ability to support our RL efforts is dependent on generating sufficient profits from other areas of our business. We are investing now because we believe this will become the next computing platform and will unlock monetization opportunities for businesses, developers, and creators, including around advertising, hardware, and digital goods.
+63
+Table of Contents
+Trends in Our Revenue by User Geography
+We calculate
+
+[... truncated at 15,000 chars ...]

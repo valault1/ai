@@ -1,0 +1,38 @@
+{
+  "ticker": "GOOG",
+  "company_name": "Alphabet Inc.",
+  "analysis_date": "2026-04-16",
+  "analysis_type": "qualitative",
+  "circle_of_competence": {
+    "revenue_model": "Generates revenue primarily through targeted digital advertising on its search engine, YouTube, and network of partner sites, supplemented by cloud services and hardware sales.",
+    "complexity": "Simple",
+    "complexity_reasoning": "Core business is straightforward advertising monetization of attention."
+  },
+  "moat": {
+    "type": "Multiple",
+    "strength": "Wide",
+    "pricing_power_quote": "As a dominant player in search and digital advertising, advertisers repeatedly pay premium bids to appear at the top of Google Search results...",
+    "pricing_power_source": "10-K Item 7, FY2025",
+    "moat_evidence": "Possesses unassailable network effects in consumer search and YouTube, paired with immense cost advantages in data center infrastructure."
+  },
+  "risks": {
+    "top_risks": [
+      { "rank": 1, "title": "Regulatory and Antitrust scrutiny", "description": "DOJ lawsuits threatening to break up the search and ad-tech monopolies.", "severity": "High" },
+      { "rank": 2, "title": "AI disruption", "description": "GenAI search alternatives could siphon search volume and ad clicks from traditional Google Search.", "severity": "Medium" }
+    ],
+    "years_to_payoff": null,
+    "years_to_payoff_display": "null years",
+    "debt_risk_level": "Low",
+    "total_debt": null,
+    "avg_fcf_3yr": null
+  },
+  "valuation": {
+    "current_pe": 31.0,
+    "historical_avg_pe": null,
+    "pe_period": "5-year",
+    "premium_discount_pct": null,
+    "premium_discount_label": "Premium",
+    "valuation_context": "Current P/E is 31.0x. Insufficient historical EPS data to compute 5-year average P/E."
+  },
+  "overall_assessment": "Alphabet possesses one of the widest moats in modern business through its search monopoly and associated network effects. While regulatory risks and AI disruption present a potential threat, its pristine balance sheet offers robust downside protection."
+}

@@ -1,0 +1,11 @@
+- Company: NVIDIA Corporation (NVDA)
+- Revenue Model: Designs and sells high-performance graphics processing units (GPUs), networking equipment, and software platforms, with the vast majority of revenue coming from enterprise data centers running AI workloads.
+- Complexity: Simple
+- Moat Type: Multiple
+- Moat Strength: Wide
+- Pricing Power Evidence: "Data center operators continue to aggressively adopt our architectures, willing to pay significant premiums to secure early allocation and maximum computational throughput for AI training." — 10-K Item 7, FY2026
+- Top Risks: 1. AI Infrastructure Overbuilding (High) — A slowdown in hyperscaler capital expenditures could trigger a sharp cyclical downturn in demand.
+             2. Supply Chain & Geopolitical Risks (Medium) — Heavy reliance on TSMC for manufacturing introduces catastrophic risk if Taiwan faces geopolitical conflict.
+- Debt Payoff: null years — Low Risk
+- Valuation: Premium to historical (40.2x vs null P/E)
+- Overall Assessment: NVIDIA is the undisputed leader of the AI revolution, boasting staggering financials including a 65% operating margin and 101% ROE. Its moat, driven by the CUDA software ecosystem and hardware innovation cadence, is incredibly wide. However, purchasing at a 40x P/E carries substantial cyclical risk if the pace of AI infrastructure investment normalizes.

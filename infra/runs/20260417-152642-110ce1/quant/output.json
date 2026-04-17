@@ -1,0 +1,94 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla, Inc.",
+  "analysis_date": "2026-04-17",
+  "analysis_type": "quantitative",
+  "market_cap": 1503299239936,
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 400.62,
+  "verdict": "FAIL",
+  "big4": [
+    {
+      "metric": "ROE",
+      "label": "Return on Equity",
+      "value": 0.049250003,
+      "display_value": "4.9%",
+      "threshold": 0.15,
+      "threshold_label": ">= 15%",
+      "direction": "higher_is_better",
+      "pass_fail": "FAIL"
+    },
+    {
+      "metric": "DE",
+      "label": "Debt / Equity",
+      "value": 0.17763,
+      "display_value": "0.18x",
+      "threshold": 0.5,
+      "threshold_label": "< 0.50x",
+      "direction": "lower_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "FCF_YIELD",
+      "label": "FCF Yield",
+      "value": 0.0024829553536918634,
+      "display_value": "0.2%",
+      "threshold": 0.05,
+      "threshold_label": ">= 5%",
+      "direction": "higher_is_better",
+      "pass_fail": "FAIL"
+    },
+    {
+      "metric": "PE",
+      "label": "P/E Ratio",
+      "value": 367.54126,
+      "display_value": "367.5x",
+      "threshold": 20,
+      "threshold_label": "< 20x",
+      "direction": "lower_is_better",
+      "pass_fail": "FAIL"
+    }
+  ],
+  "supporting": [
+    {
+      "metric": "CURRENT_RATIO",
+      "label": "Current Ratio",
+      "value": 2.164,
+      "display_value": "2.16x",
+      "threshold": 1.5,
+      "threshold_label": "> 1.5x",
+      "direction": "higher_is_better",
+      "pass_fail": "PASS"
+    },
+    {
+      "metric": "OP_MARGIN",
+      "label": "Operating Margin",
+      "value": 0.047030002,
+      "display_value": "4.7%",
+      "threshold": 0.1,
+      "threshold_label": "> 10%",
+      "direction": "higher_is_better",
+      "pass_fail": "FAIL"
+    },
+    {
+      "metric": "SHARES_TREND",
+      "label": "Shares Outstanding",
+      "value": null,
+      "display_value": "Increasing",
+      "threshold": null,
+      "threshold_label": "Flat or decreasing",
+      "direction": null,
+      "pass_fail": "FAIL",
+      "shares_history": [
+        3751000000,
+        3216000000,
+        3185000000,
+        3164000000
+      ]
+    }
+  ],
+  "big4_pass_count": 1,
+  "big4_fail_count": 3,
+  "quant_gate": "HALT"
+}

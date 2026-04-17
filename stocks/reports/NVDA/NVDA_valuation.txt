@@ -1,0 +1,9 @@
+{
+  "ticker": "NVDA",
+  "current_pe": 40.2,
+  "historical_avg_pe": null,
+  "pe_period": "5-year",
+  "premium_discount_pct": null,
+  "premium_discount_label": null,
+  "valuation_context": "Current P/E is 40.2x. Insufficient historical EPS data to compute 5-year average P/E."
+}

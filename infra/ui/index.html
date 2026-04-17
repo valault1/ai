@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI Pipelines</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<header>
+  <div class="h-title">AI PIPELINES</div>
+  <div class="h-tabs">
+    <button class="tab-btn active" id="tab-runs" onclick="showTab('runs')">Runs</button>
+    <button class="tab-btn" id="tab-stocks" onclick="showTab('stocks')">Stocks</button>
+  </div>
+  <div class="h-status">
+    <span class="dot" id="dot"></span>
+    <span id="conn-lbl">Connecting…</span>
+  </div>
+</header>
+
+<div id="app">
+  <!-- ── Runs tab ── -->
+  <div id="view-runs" style="display:flex;flex:1;overflow:hidden">
+    <aside id="sidebar">
+      <div id="sidebar-header">
+        <h2>Runs</h2>
+        <button id="btn-new-run" onclick="openModal()">+ New Run</button>
+      </div>
+      <div id="run-list"></div>
+    </aside>
+
+    <div id="detail">
+      <div id="detail-empty">
+        <h2>Select a run</h2>
+        <p>Choose a run from the sidebar, or start a new one.</p>
+      </div>
+      <div id="detail-content" style="display:none"></div>
+    </div>
+  </div>
+
+  <!-- ── Stocks tab ── -->
+  <div id="view-stocks">
+    <div class="stocks-wrap">
+      <div id="stocks-loading">Loading stocks data…</div>
+      <div id="stocks-lb" style="display:none"></div>
+      <div id="stocks-tickers"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ── New Run Modal ── -->
+<div id="modal">
+  <div id="modal-box">
+    <h2>New Run</h2>
+    <div class="field">
+      <label>Pipeline</label>
+      <select id="pipeline-select" onchange="onPipelineChange()"></select>
+    </div>
+    <div id="params-fields"></div>
+    <div class="modal-actions">
+      <button class="btn btn-secondary" onclick="closeModal()">Cancel</button>
+      <button class="btn btn-primary" id="btn-submit" onclick="submitRun()">Start Run</button>
+    </div>
+  </div>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

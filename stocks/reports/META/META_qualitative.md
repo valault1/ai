@@ -1,0 +1,11 @@
+- Company: Meta Platforms, Inc. (META)
+- Revenue Model: Meta generates substantially all of its revenue from selling advertising placements on its family of apps (Facebook, Instagram, Messenger, Threads, and WhatsApp) to marketers, while also generating revenue from consumer hardware, software, and content via its Reality Labs segment.
+- Complexity: Simple
+- Moat Type: Network Effect
+- Moat Strength: Wide
+- Pricing Power Evidence: "Our average price per ad increased 9% year-over-year." — 10-K Item 7, FY2025
+- Top Risks: 1. Regulatory & Privacy Headwinds (High) — Global privacy laws and OS changes limit ad targeting and measurement.
+             2. Intense Competition for Attention (Medium) — Platforms like TikTok compete for user time, potentially eroding the network effect.
+- Debt Payoff: 2.5 years — Low Risk
+- Valuation: 20.0% Premium to historical (28.8x vs 24.0x P/E)
+- Overall Assessment: Meta remains a high-quality business with a dominant network effect and exceptional operating margins. While it faces significant regulatory risks and a higher-than-average valuation, its strong cash flow and fortress balance sheet provide a stable foundation for its aggressive AI pivot.
