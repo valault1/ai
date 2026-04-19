@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <clipPath id="planetClip">
+      <circle cx="50" cy="50" r="40"/>
+    </clipPath>
+  </defs>
+
+  <!-- Back ring -->
+  <ellipse cx="50" cy="50" rx="48" ry="12" fill="none" stroke="#5E6AD2" stroke-width="5" transform="rotate(-32 50 50)"/>
+
+  <!-- Planet -->
+  <circle cx="50" cy="50" r="40" fill="#5E6AD2"/>
+
+  <!-- Front ring (background cut) -->
+  <path d="M 2 50 A 48 12 0 0 0 98 50"
+     fill="none"
+     stroke="#050506"
+     stroke-width="10"
+     transform="rotate(-32 50 50)"
+     clip-path="url(#planetClip)"/>
+
+  <!-- Front ring (color) -->
+  <path d="M 2 50 A 48 12 0 0 0 98 50"
+     fill="none"
+     stroke="#6872D9"
+     stroke-width="5"
+     transform="rotate(-32 50 50)"/> 
+</svg>

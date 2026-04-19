@@ -1,0 +1,1 @@
+import YahooFinance from 'yahoo-finance2'; const yahooFinance = new YahooFinance(); async function test() { console.log(await yahooFinance.chart('VOO', { period1: '2024-04-10', period2: '2024-04-18' })); } test();

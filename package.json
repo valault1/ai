@@ -1,0 +1,21 @@
+{
+  "name": "project-root",
+  "private": true,
+  "workspaces": [
+    "shared",
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "bun run --filter=backend --filter=frontend dev",
+    "build": "bun --cwd shared run build && bun --cwd backend run build && bun --cwd frontend run build",
+    "lint": "eslint . --ext .ts,.tsx",
+    "typecheck": "tsc --build"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "eslint": "^8.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0"
+  }
+}
